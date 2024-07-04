@@ -5,14 +5,14 @@
              <img src="/frontend/src/assets/chat-app-logo-design-template-can-be-used-icon-chat-application-logo_605910-1724.jpg" alt="Chat app logo" width="300">
         </picture>
      </a>
-     h
+     
   
 </p>
 
 <h4 align="center">Welcome to Chat Application! An all-in-one tool for chatting, signup, login, logout.</h4>
 
 <a href="https://real-time-chat-app-e1v9.onrender.com" target="_blank">
-        <h3 align="center"><span>"click here"</span>"https://real-time-chat-app-e1v9.onrender.com".</h3>
+        <h3 align="center"><span>click here: </span>https://real-time-chat-app-e1v9.onrender.com.</h3>
 </a>
 
 ## About
