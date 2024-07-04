@@ -2,7 +2,7 @@
      <a href="https://real-time-chat-app-e1v9.onrender.com" target="_blank">
         <picture>
             <source srcset="" media="(prefers-color-scheme: dark)">
-             <img src="/frontend/src/assets/chat-app-logo-design-template-can-be-used-icon-chat-application-logo_605910-1724.avif" alt="Think Space Logo" width="300">
+             <img src="/frontend/src/assets/chat-app-logo-design-template-can-be-used-icon-chat-application-logo_605910-1724.avif" alt="Chat app logo" width="300">
         </picture>
      </a>
   
@@ -74,14 +74,10 @@ Follow these steps to set up the project locally:
 
    ```sh
     npm run build
-    ```
-
+   ```
 
 5. **Start the app**:
 
    ```sh
    npm start
    ```
-
-
-
